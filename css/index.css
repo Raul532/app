@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+body .largura{
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10vh;
+    height: 5vh;
+    border: ;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-indent: 2%;
+    border-radius: 25px;
+
+}
+nav img{
+    margin-left: 27%;
+    height: 20vh;
+    margin-top: 10vh;
+}
+body .espaço{
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5vh;
+    height: 5vh;
+    border: ;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-indent: 2%;
+    border-radius: 25px;
+
+}
+button{
+    width: 45%;
+    float: left;
+    margin-left: 27%;
+    margin-top: 5vh;
+    height: 5vh;
+    border: ;
+    background-color: #00a2ff;
+    color: #ffffff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-indent: 2%;
+    border-radius: 25px;
+
+
+}
+
+
+
